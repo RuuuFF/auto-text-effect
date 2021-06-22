@@ -1,6 +1,6 @@
 # ⚙️ Projeto
 
-**Auto Text Effect** consiste em um texto sendo exibico caractere por caractere. Foi desenvolvido no curso <a href="https://www.udemy.com/share/103Pv2AEcYdFxQQXUH">50 Projects In 50 Days</a>.
+**Auto Text Effect** consiste em um texto sendo exibido caractere por caractere. Foi desenvolvido no curso <a href="https://www.udemy.com/share/103Pv2AEcYdFxQQXUH">50 Projects In 50 Days</a>.
 
 O projeto possui algumas funcionalidades adicionadas por mim, como um botão de loop "on" ou "off", um botão "Play" que é habilitado quando o loop está desativado e mensagens aleatórias a cada finalização. Além da refatoração do código.
 
