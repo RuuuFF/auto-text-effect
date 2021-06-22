@@ -11,9 +11,21 @@
 <body>
   <h1 id="auto-text">Starting...</h1>
 
-  <div>
-    <label for="speed">Speed:</label>
-    <input type="number" name="speed" id="speed" value="1" min="1" max="5" step="1">
+  <div class="controls">
+    <div class="input-group">
+      <label for="speed">Speed:</label>
+      <input type="number" name="speed" id="speed" value="1" min="1" max="5" step="1">
+    </div>
+
+    <div class="input-group">
+      <label for="loop">Loop:</label>
+      <input type="button" name="loop" id="loop" value="ON">
+    </div>
+
+    <div class="input-group">
+      <label for="play-auto-text" class="screen-reader">Play Auto Text:</label>
+      <input type="button" name="play-auto-text" id="play-auto-text" value="PLAY" disabled>
+    </div>
   </div>
   
   <script src="main.js"></script>
