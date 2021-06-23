@@ -13,6 +13,6 @@ O projeto possui algumas funcionalidades adicionadas por mim, como um botão de 
 # 🖥️ Resultado
 
 <div align="center">
-  <img alt="Auto Text Effect" src="https://i.imgur.com/D73tOpH.png" width="450px">
+  <img alt="Auto Text Effect" src="https://i.imgur.com/Px1z3jL.png" width="450px">
   <p>Confira o resultado: <a href="https://auto-text-effect-ruuuff.netlify.app">Project Name</a></p>
 </div>
